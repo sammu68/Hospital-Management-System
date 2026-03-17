@@ -1,1 +1,3 @@
-# Hospital-Management-System
+This project is a simple yet effective Hospital Management System developed using Python and SQLite. It is designed to demonstrate the core concepts of database management, SQL queries, and modular programming in Python.
+The system allows users to manage hospital operations such as storing patient details, maintaining doctor records, and booking appointments. It uses a structured relational database to ensure efficient data storage and retrieval.
+The application follows a modular design where different functionalities are separated into individual Python files, making the code clean, reusable, and easy to maintain.
